@@ -5,7 +5,7 @@
     /*nueva medida basada en el viewport height medida de la pantalla*/
 }
 
-.encabezado {
+.navbar-fixed-top {
     background: rgba(0, 0, 0, 0.28);
 }
 
@@ -51,4 +51,21 @@
 .navbar-light .navbar-nav .nav-link {
     color: rgba(255, 255, 255, .5);
     margin: 0.4rem 0;
+}
+
+.mensaje {
+    margin-top: 6rem;
+    color: #ffffff;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #17a2b8;
+    border-color: #17a2b8;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #5cc9da;
+    border-color: #17a2b8;
 }
