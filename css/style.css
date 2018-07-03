@@ -1,3 +1,7 @@
+html {
+    color: #ffffff;
+}
+
 .bienvenidos {
     background: url("../images/fondo-bienvenidos.jpg");
     background-size: cover;
@@ -54,7 +58,7 @@
 }
 
 .mensaje {
-    margin-top: 6rem;
+    margin-top: 8rem;
     color: #ffffff;
 }
 
@@ -73,4 +77,10 @@
 .profile {
     height: 200px;
     width: 200px;
+}
+
+.quienes {
+    /*background-color: #89bfc7;
+    color: #ffffff;
+*/
 }
