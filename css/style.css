@@ -64,8 +64,8 @@ html {
 
 .btn-primary {
     color: #fff;
-    background-color: #17a2b8;
-    border-color: #17a2b8;
+    background-color: #087181;
+    border-color: #087181;
 }
 
 .btn-primary:hover {
@@ -79,8 +79,7 @@ html {
     width: 200px;
 }
 
-.quienes {
-    /*background-color: #89bfc7;
+.services {
+    background-color: #087181;
     color: #ffffff;
-*/
 }
