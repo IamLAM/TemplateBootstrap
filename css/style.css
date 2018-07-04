@@ -79,6 +79,10 @@ html {
     width: 200px;
 }
 
+.services .fa {
+    color: #ffffff;
+}
+
 .services {
     background-color: #087181;
     color: #ffffff;
